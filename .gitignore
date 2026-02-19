@@ -26,4 +26,4 @@ Thumbs.db
 data_cache/
 results/
 *.csv
-book.html
+# book.html is included intentionally
